@@ -1,0 +1,7 @@
+{
+  "address": "Apex, NC 27502, USA",
+  "latitude": 35.7178049,
+  "longitude": -78.9175088,
+  "temperature": 45.43,
+  "apparentTemperature": 45.43
+}
