@@ -1,0 +1,5 @@
+apikeys.txt
+credentials/
+node_modules
+playground/
+weatherData.txt
